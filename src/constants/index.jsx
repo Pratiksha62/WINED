@@ -61,39 +61,39 @@ export const testimonials = [
 export const features = [
   {
     icon: <BotMessageSquare />,
-    text: "Drag-and-Drop Interface",
+    text: "Vineyard Selection",
     description:
-      "Easily design and arrange your VR environments with a user-friendly drag-and-drop interface.",
+      "Carefully sourced grapes from exceptional vineyards, chosen for their character, balance, and depth of flavor",
   },
   {
     icon: <Fingerprint />,
-    text: "Multi-Platform Compatibility",
+    text: "Crafted Wines",
     description:
-      "Build VR applications that run seamlessly across multiple platforms, including mobile, desktop, and VR headsets.",
+      "Elegant wines crafted with precision, highlighting tradition, terroir, and refined winemaking techniques.",
   },
   {
     icon: <ShieldHalf />,
-    text: "Built-in Templates",
+    text: "Oak Aging",
     description:
-      "Jumpstart your VR projects with a variety of built-in templates for different types of applications and environments.",
+      "Aged in fine oak barrels to develop complexity, smooth tannins, and rich aromatic layers.",
   },
   {
     icon: <BatteryCharging />,
-    text: "Real-Time Preview",
+    text: "Pairing Experience",
     description:
-      "Preview your VR application in real-time as you make changes, allowing for quick iterations and adjustments.",
+      "Discover perfect pairings that elevate both the wine and the cuisine.",
   },
   {
     icon: <PlugZap />,
-    text: "Collaboration Tools",
+    text: "Terroir",
     description:
-      "Work together with your team in real-time on VR projects, enabling seamless collaboration and idea sharing.",
+      "Every bottle reflects the unique soil, climate, and landscape where the grapes are grown.",
   },
   {
     icon: <GlobeLock />,
-    text: "Analytics Dashboard",
+    text: "Wine Collection",
     description:
-      "Gain valuable insights into user interactions and behavior within your VR applications with an integrated analytics dashboard.",
+      "Explore our curated selection of vintages—from bright and lively to bold and full-bodied.",
   },
 ];
 
