@@ -99,24 +99,24 @@ export const features = [
 
 export const checklistItems = [
   {
-    title: "Code merge made easy",
+    title: "Grape Selection",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "We carefully select premium grapes from our vineyards to ensure the best flavor and quality.",
   },
   {
-    title: "Review code without worry",
+    title: "Harvesting",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "Our grapes are harvested at peak ripeness to capture their natural sweetness and aroma.",
   },
   {
-    title: "AI Assistance to reduce time",
+    title: "Fermentation",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "The freshly crushed grapes undergo fermentation where natural yeast converts sugars into alcohol, developing the wine’s character.",
   },
   {
-    title: "Share work in minutes",
+    title: "Aging",
     description:
-      "Track the performance of your VR apps and gain insights into user behavior.",
+      "The wine is aged in oak barrels or stainless steel tanks to enhance its depth, flavor, and aroma.",
   },
 ];
 
