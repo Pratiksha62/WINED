@@ -163,16 +163,16 @@ export const resourcesLinks = [
 
 export const platformLinks = [
   { href: "#", text: "Features" },
-  { href: "#", text: "Supported Devices" },
-  { href: "#", text: "System Requirements" },
-  { href: "#", text: "Downloads" },
-  { href: "#", text: "Release Notes" },
+  { href: "#", text: "Help Center" },
+  { href: "#", text: "Shipping & Delivery" },
+  { href: "#", text: "Privacy Policy" },
+  { href: "#", text: "Terms & Conditions" },
 ];
 
 export const communityLinks = [
-  { href: "#", text: "Events" },
-  { href: "#", text: "Meetups" },
-  { href: "#", text: "Conferences" },
-  { href: "#", text: "Hackathons" },
-  { href: "#", text: "Jobs" },
+  { href: "#", text: "Address: 123 Vineyard Lane, Napa Valley, CA" },
+  { href: "#", text: "Phone: +1 (123) 456-7890" },
+  { href: "#", text: "Email:wined@winery.com" },
+  // { href: "#", text: "Hackathons" },
+  // { href: "#", text: "Jobs" },
 ];
