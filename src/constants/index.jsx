@@ -122,32 +122,32 @@ export const checklistItems = [
 
 export const pricingOptions = [
   {
-    title: "Free",
-    price: "$0",
+    title: "Basic Plan",
+    price: "$30",
     features: [
-      "Private board sharing",
-      "5 Gb Storage",
+      "2 bottles every month",
+      "Free delivery",
       "Web Analytics",
       "Private Mode",
     ],
   },
   {
-    title: "Pro",
-    price: "$10",
+    title: "Premium Plan",
+    price: "$55",
     features: [
-      "Private board sharing",
-      "10 Gb Storage",
-      "Web Analytics (Advance)",
+      "4 bottles every month",
+      "Exclusive seasonal wines",
+      "Free delivery",
       "Private Mode",
     ],
   },
   {
-    title: "Enterprise",
-    price: "$200",
+    title: "Collector Plan",
+    price: "$90",
     features: [
-      "Private board sharing",
-      "Unlimited Storage",
-      "High Performance Network",
+      "6 premium bottles",
+      "Limited edition wines",
+      "Member Discounts",
       "Private Mode",
     ],
   },

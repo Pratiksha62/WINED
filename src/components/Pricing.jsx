@@ -1,5 +1,5 @@
 import { CheckCircle2, SpaceIcon } from "lucide-react"
-import { pricingOptions } from "../constants"
+import { features, pricingOptions } from "../constants"
 
 const Pricing = () => {
   return (
@@ -13,15 +13,27 @@ const Pricing = () => {
         <div className="p-10 border border-neutral-700 rounded-xl">
             <p className="text-4xl mb-8">
                 {option.title}
-                {option.title == "Pro" && (
+                {option.title == "Premium Plan" && (
                     <span className="bg-gradient-to-r from-orange-500 to-orange-800 text-transparent bg-clip-text mb-4 ml-2">(Most Popular)</span>
                     )}
 
             </p>
             <p className="mb-8">
-                <span className="">{option.price}</span>
-                <span>/Month</span>
+                <span className="text-5xl mt-6 mr-2">{option.price}</span>
+                <span className="text-neutral-400 tracking-tight">/Month</span>
             </p>
+            <ul>
+              {option.features.map((feature, index) =>(
+                <li key={index} className="mt-8 flex items-center">
+                  <CheckCircle2 />
+                  <span className="ml-2">{feature}</span>
+                </li>
+              ))}
+            </ul>
+            <a href="#" className="inline-flex justify-center items-center text-center w-full h-15 p-5 mt-20  tracking-tight text-xl hover:bg-orange-900 border border-orange-900 rounded-lg transition duration-200">
+              Subscribe
+              </a>
+
         </div>
         </div>
 
