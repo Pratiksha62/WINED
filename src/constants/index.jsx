@@ -22,39 +22,39 @@ export const navItems = [
 export const testimonials = [
   {
     user: "John Doe",
-    company: "Stellar Solutions",
+    company: "Wine Enthusiast",
     image: user1,
-    text: "I am extremely satisfied with the services provided. The team was responsive, professional, and delivered results beyond my expectations.",
+    text: "The quality of the wine is exceptional. Every bottle feels premium and the delivery is always on time. Highly recommended!",
   },
   {
     user: "Jane Smith",
-    company: "Blue Horizon Technologies",
+    company: "Premium Subscriber",
     image: user2,
-    text: "I couldn't be happier with the outcome of our project. The team's creativity and problem-solving skills were instrumental in bringing our vision to life",
+    text: "I love the monthly subscription. The seasonal wines are amazing and it’s exciting to try new varieties every month.",
   },
   {
     user: "David Johnson",
-    company: "Quantum Innovations",
+    company: "Food & Wine Lover",
     image: user3,
-    text: "Working with this company was a pleasure. Their attention to detail and commitment to excellence are commendable. I would highly recommend them to anyone looking for top-notch service.",
+    text: "The flavors are rich and perfectly balanced. These wines pair beautifully with my dinners.",
   },
   {
     user: "Ronee Brown",
-    company: "Fusion Dynamics",
+    company: "Collector Plan Member",
     image: user4,
-    text: "Working with the team at XYZ Company was a game-changer for our project. Their attention to detail and innovative solutions helped us achieve our goals faster than we thought possible. We are grateful for their expertise and professionalism!",
+    text: "The Collector Plan is absolutely fantastic. I’ve received several limited-edition wines that are hard to find anywhere else. Each bottle feels special and unique.",
   },
   {
     user: "Michael Wilson",
-    company: "Visionary Creations",
+    company: "Regular Customer",
     image: user5,
-    text: "I am amazed by the level of professionalism and dedication shown by the team. They were able to exceed our expectations and deliver outstanding results.",
+    text: "From ordering to delivery, the entire experience has been smooth and enjoyable. The website is easy to use, the customer service is excellent, and the wine itself is outstanding.",
   },
   {
     user: "Emily Davis",
-    company: "Synergy Systems",
+    company: "Longtime Wine Customer",
     image: user6,
-    text: "The team went above and beyond to ensure our project was a success. Their expertise and dedication are unmatched. I look forward to working with them again in the future.",
+    text: "It really makes the whole experience feel more special and enjoyable. I would definitely recommend this winery to anyone who loves high-quality wine and wants to explore new flavors.",
   },
 ];
 
